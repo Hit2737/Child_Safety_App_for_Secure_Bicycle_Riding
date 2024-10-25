@@ -1,0 +1,4 @@
+#Thu Sep 28 02:56:49 IST 2023
+base.0=C\:\\Simulink\\Gyro_ert_rtw\\Gyro\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

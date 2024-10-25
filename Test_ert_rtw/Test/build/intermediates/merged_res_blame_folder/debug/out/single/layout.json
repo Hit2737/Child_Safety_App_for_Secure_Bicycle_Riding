@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Hitesh\\Desktop\\SIMULINK\\Test_ert_rtw\\Test\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_app.xml",
+        "source": "C:\\Users\\Hitesh\\Desktop\\SIMULINK\\Test_ert_rtw\\Test\\src\\main\\res\\layout\\fragment_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitesh\\Desktop\\SIMULINK\\Test_ert_rtw\\Test\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_log.xml",
+        "source": "C:\\Users\\Hitesh\\Desktop\\SIMULINK\\Test_ert_rtw\\Test\\src\\main\\res\\layout\\fragment_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitesh\\Desktop\\SIMULINK\\Test_ert_rtw\\Test\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Hitesh\\Desktop\\SIMULINK\\Test_ert_rtw\\Test\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitesh\\Desktop\\SIMULINK\\Test_ert_rtw\\Test\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\auto_generated_widgets.xml",
+        "source": "C:\\Users\\Hitesh\\Desktop\\SIMULINK\\Test_ert_rtw\\Test\\src\\main\\res\\layout\\auto_generated_widgets.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitesh\\Desktop\\SIMULINK\\Test_ert_rtw\\Test\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\camera_scope_layout.xml",
+        "source": "C:\\Users\\Hitesh\\Desktop\\SIMULINK\\Test_ert_rtw\\Test\\src\\main\\res\\layout\\camera_scope_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitesh\\Desktop\\SIMULINK\\Test_ert_rtw\\Test\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_info.xml",
+        "source": "C:\\Users\\Hitesh\\Desktop\\SIMULINK\\Test_ert_rtw\\Test\\src\\main\\res\\layout\\fragment_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hitesh\\Desktop\\SIMULINK\\Test_ert_rtw\\Test\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\camera_view.xml",
+        "source": "C:\\Users\\Hitesh\\Desktop\\SIMULINK\\Test_ert_rtw\\Test\\src\\main\\res\\layout\\camera_view.xml"
+    }
+]

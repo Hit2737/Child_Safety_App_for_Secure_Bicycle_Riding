@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Simulink\\Testing_10x5B10x5D_ert_rtw\\Testing_10x5B10x5D\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_app.xml",
+        "source": "C:\\Simulink\\Testing_10x5B10x5D_ert_rtw\\Testing_10x5B10x5D\\src\\main\\res\\layout\\fragment_app.xml"
+    },
+    {
+        "merged": "C:\\Simulink\\Testing_10x5B10x5D_ert_rtw\\Testing_10x5B10x5D\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_info.xml",
+        "source": "C:\\Simulink\\Testing_10x5B10x5D_ert_rtw\\Testing_10x5B10x5D\\src\\main\\res\\layout\\fragment_info.xml"
+    },
+    {
+        "merged": "C:\\Simulink\\Testing_10x5B10x5D_ert_rtw\\Testing_10x5B10x5D\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_log.xml",
+        "source": "C:\\Simulink\\Testing_10x5B10x5D_ert_rtw\\Testing_10x5B10x5D\\src\\main\\res\\layout\\fragment_log.xml"
+    },
+    {
+        "merged": "C:\\Simulink\\Testing_10x5B10x5D_ert_rtw\\Testing_10x5B10x5D\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\auto_generated_widgets.xml",
+        "source": "C:\\Simulink\\Testing_10x5B10x5D_ert_rtw\\Testing_10x5B10x5D\\src\\main\\res\\layout\\auto_generated_widgets.xml"
+    },
+    {
+        "merged": "C:\\Simulink\\Testing_10x5B10x5D_ert_rtw\\Testing_10x5B10x5D\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Simulink\\Testing_10x5B10x5D_ert_rtw\\Testing_10x5B10x5D\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

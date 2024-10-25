@@ -1,0 +1,49 @@
+com/example/ParentApp0x5B10x5D/InfoFragment.java
+ com.example.ParentApp0x5B10x5D.InfoFragment
+com/example/ParentApp0x5B10x5D/databinding/CameraScopeLayoutBinding.java
+ com.example.ParentApp0x5B10x5D.databinding.CameraScopeLayoutBinding
+com/example/ParentApp0x5B10x5D/databinding/FragmentLogBinding.java
+ com.example.ParentApp0x5B10x5D.databinding.FragmentLogBinding
+com/example/ParentApp0x5B10x5D/ParentApp0x5B10x5D.java
+ com.example.ParentApp0x5B10x5D.ParentApp0x5B10x5D
+ com.example.ParentApp0x5B10x5D.ParentApp0x5B10x5D$1
+ com.example.ParentApp0x5B10x5D.ParentApp0x5B10x5D$2
+ com.example.ParentApp0x5B10x5D.ParentApp0x5B10x5D$3
+ com.example.ParentApp0x5B10x5D.ParentApp0x5B10x5D$4
+com/example/ParentApp0x5B10x5D/databinding/FragmentInfoBinding.java
+ com.example.ParentApp0x5B10x5D.databinding.FragmentInfoBinding
+com/example/ParentApp0x5B10x5D/BuildConfig.java
+ com.example.ParentApp0x5B10x5D.BuildConfig
+com/example/ParentApp0x5B10x5D/CameraScopeSectionsPagerAdapter.java
+ com.example.ParentApp0x5B10x5D.CameraScopeSectionsPagerAdapter
+com/example/ParentApp0x5B10x5D/CameraScopeFragment.java
+ com.example.ParentApp0x5B10x5D.CameraScopeFragment
+com/example/ParentApp0x5B10x5D/OnFragmentInteractionListener.java
+ com.example.ParentApp0x5B10x5D.OnFragmentInteractionListener
+com/example/ParentApp0x5B10x5D/CameraView.java
+ com.example.ParentApp0x5B10x5D.CameraView
+ com.example.ParentApp0x5B10x5D.CameraView$1
+ com.example.ParentApp0x5B10x5D.CameraView$1$1
+ com.example.ParentApp0x5B10x5D.CameraView$SetupException
+com/example/ParentApp0x5B10x5D/databinding/ActivityMainBinding.java
+ com.example.ParentApp0x5B10x5D.databinding.ActivityMainBinding
+com/example/ParentApp0x5B10x5D/databinding/FragmentAppBinding.java
+ com.example.ParentApp0x5B10x5D.databinding.FragmentAppBinding
+com/example/ParentApp0x5B10x5D/AppFragment.java
+ com.example.ParentApp0x5B10x5D.AppFragment
+ com.example.ParentApp0x5B10x5D.AppFragment$1
+ com.example.ParentApp0x5B10x5D.AppFragment$2
+ com.example.ParentApp0x5B10x5D.AppFragment$3
+com/example/ParentApp0x5B10x5D/databinding/CameraViewBinding.java
+ com.example.ParentApp0x5B10x5D.databinding.CameraViewBinding
+com/example/ParentApp0x5B10x5D/Camera2View.java
+ com.example.ParentApp0x5B10x5D.Camera2View
+ com.example.ParentApp0x5B10x5D.Camera2View$1
+ com.example.ParentApp0x5B10x5D.Camera2View$1$1
+ com.example.ParentApp0x5B10x5D.Camera2View$SetupException
+com/example/ParentApp0x5B10x5D/LogFragment.java
+ com.example.ParentApp0x5B10x5D.LogFragment
+ com.example.ParentApp0x5B10x5D.LogFragment$1
+ com.example.ParentApp0x5B10x5D.LogFragment$2
+com/example/ParentApp0x5B10x5D/AudioFileRead.java
+ com.example.ParentApp0x5B10x5D.AudioFileRead

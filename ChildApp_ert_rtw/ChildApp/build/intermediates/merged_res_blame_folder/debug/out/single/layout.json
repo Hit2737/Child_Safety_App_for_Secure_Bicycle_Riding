@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Simulink\\ChildApp_ert_rtw\\ChildApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\camera_view.xml",
+        "source": "C:\\Simulink\\ChildApp_ert_rtw\\ChildApp\\src\\main\\res\\layout\\camera_view.xml"
+    },
+    {
+        "merged": "C:\\Simulink\\ChildApp_ert_rtw\\ChildApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_info.xml",
+        "source": "C:\\Simulink\\ChildApp_ert_rtw\\ChildApp\\src\\main\\res\\layout\\fragment_info.xml"
+    },
+    {
+        "merged": "C:\\Simulink\\ChildApp_ert_rtw\\ChildApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\auto_generated_widgets.xml",
+        "source": "C:\\Simulink\\ChildApp_ert_rtw\\ChildApp\\src\\main\\res\\layout\\auto_generated_widgets.xml"
+    },
+    {
+        "merged": "C:\\Simulink\\ChildApp_ert_rtw\\ChildApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_app.xml",
+        "source": "C:\\Simulink\\ChildApp_ert_rtw\\ChildApp\\src\\main\\res\\layout\\fragment_app.xml"
+    },
+    {
+        "merged": "C:\\Simulink\\ChildApp_ert_rtw\\ChildApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Simulink\\ChildApp_ert_rtw\\ChildApp\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Simulink\\ChildApp_ert_rtw\\ChildApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\camera_scope_layout.xml",
+        "source": "C:\\Simulink\\ChildApp_ert_rtw\\ChildApp\\src\\main\\res\\layout\\camera_scope_layout.xml"
+    },
+    {
+        "merged": "C:\\Simulink\\ChildApp_ert_rtw\\ChildApp\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_log.xml",
+        "source": "C:\\Simulink\\ChildApp_ert_rtw\\ChildApp\\src\\main\\res\\layout\\fragment_log.xml"
+    }
+]

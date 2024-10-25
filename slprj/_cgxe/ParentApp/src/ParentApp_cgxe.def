@@ -1,0 +1,4 @@
+LIBRARY ParentApp_cgxe.mexw64
+EXPORTS
+mexFunction
+mexfilerequiredapiversion

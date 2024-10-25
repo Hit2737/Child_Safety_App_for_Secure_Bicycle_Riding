@@ -1,0 +1,63 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.Testing_10x5B10x5D"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+11-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:10:1-71
+11-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:10:18-69
+12    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+12-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:10:71-145
+12-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:10:88-143
+13    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+13-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:11:1-66
+13-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:11:18-64
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:12:1-62
+14-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:12:18-60
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:13:1-74
+15-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:13:18-72
+16
+17    <application
+17-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:2:5-9:19
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.3.1] C:\Users\Hitesh\.gradle\caches\transforms-3\d2b38ed747382c5e5a6e7478df98d3b8\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:icon="@drawable/ic_launcher"
+20-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:2:18-54
+21        android:label="@string/app_name"
+21-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:2:55-87
+22        android:theme="@style/MWAppTheme" >
+22-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:2:88-121
+23        <activity
+23-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:3:9-8:20
+24            android:name="com.example.Testing_10x5B10x5D.Testing_10x5B10x5D"
+24-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:3:52-85
+25            android:configChanges="orientation|screenSize"
+25-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:3:132-178
+26            android:label="@string/app_name"
+26-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:3:19-51
+27            android:theme="@style/MWAppTheme.NoActionBar" >
+27-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:3:86-131
+28            <intent-filter>
+28-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:4:13-7:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:5:17-68
+29-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:5:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:6:17-76
+31-->C:\Simulink\Testing_10x5B10x5D_ert_rtw\Testing_10x5B10x5D\src\main\AndroidManifest.xml:6:27-74
+32            </intent-filter>
+33        </activity>
+34    </application>
+35
+36</manifest>

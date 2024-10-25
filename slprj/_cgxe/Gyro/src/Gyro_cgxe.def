@@ -1,0 +1,4 @@
+LIBRARY Gyro_cgxe.mexw64
+EXPORTS
+mexFunction
+mexfilerequiredapiversion

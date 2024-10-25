@@ -1,0 +1,45 @@
+CC     = "C:\Program Files\MATLAB\R2023a\sys\lcc64\lcc64\bin\lcc64.exe"
+LD     = "C:\Program Files\MATLAB\R2023a\sys\lcc64\lcc64\bin\lcclnk64.exe"
+LIBCMD = "C:\Program Files\MATLAB\R2023a\sys\lcc64\lcc64\bin\lcclib64.exe"
+CFLAGS = -w -dll -noregistrylookup  -c -Zp8 -DLCC_WIN64 -DMATLAB_MEX_FILE -nodeclspec
+LDFLAGS = -s -dll -L"C:\Program Files\MATLAB\R2023a\sys\lcc64\lcc64\lib64" -entry LibMain -map sfun.map
+LIBFLAGS = 
+
+OBJECTS = \
+	"c_mexapi_version.obj"\
+	"lccstub.obj"\
+	"Gyro_cgxe.obj"\
+	"m_W3c0jUQLrkthkBTev0jd9D.obj"\
+	"Gyro_cgxe_registry.obj"\
+	"Gyro_cgxe.def"\
+	"C:\Program Files\MATLAB\R2023a\extern\lib\win64\microsoft\libmx.lib"\
+	"C:\Program Files\MATLAB\R2023a\extern\lib\win64\microsoft\libmex.lib"\
+	"C:\Program Files\MATLAB\R2023a\extern\lib\win64\microsoft\libmat.lib"\
+	"C:\Program Files\MATLAB\R2023a\extern\lib\win64\microsoft\libfixedpoint.lib"\
+	"C:\Program Files\MATLAB\R2023a\extern\lib\win64\microsoft\libut.lib"\
+	"C:\Program Files\MATLAB\R2023a\extern\lib\win64\microsoft\libmwmathutil.lib"\
+	"C:\Program Files\MATLAB\R2023a\extern\lib\win64\microsoft\libemlrt.lib"\
+	"C:\Program Files\MATLAB\R2023a\extern\lib\win64\microsoft\libmwcgxert.lib"\
+	"C:\Program Files\MATLAB\R2023a\extern\lib\win64\microsoft\libmwcgxeooprt.lib"\
+	"C:\Program Files\MATLAB\R2023a\extern\lib\win64\microsoft\libmwslexec_simbridge.lib"\
+	"C:\Program Files\MATLAB\R2023a\extern\lib\win64\microsoft\libmwslccrt.lib"\
+	"C:\Program Files\MATLAB\R2023a\extern\lib\win64\microsoft\libmwstringutil.lib"\
+	"C:\Program Files\MATLAB\R2023a\extern\lib\win64\microsoft\libcovrt.lib"\
+	"C:\Program Files\MATLAB\R2023a\extern\lib\win64\microsoft\libmwsl_sfcn_cov_bridge.lib"\
+	"C:\Program Files\MATLAB\R2023a\extern\lib\win64\microsoft\libmwdsp_halidesim.lib"\
+
+INCLUDE_PATH= -I"C:\Program Files\MATLAB\R2023a\extern\include"  -I"C:\Program Files\MATLAB\R2023a\simulink\include"  -I"C:\Program Files\MATLAB\R2023a\rtw\c\src"  -I"C:\Users\Hitesh\onedrive - iitgn.ac.in\laptop files\documents\MATLAB\numerical_methods\Tut5\slprj\_cgxe\Gyro\src"  -I"C:\Users\Hitesh\onedrive - iitgn.ac.in\laptop files\documents\MATLAB\numerical_methods\Tut5"  -I"C:\Simulink"  -I"C:\Users\Hitesh\OneDrive - iitgn.ac.in\Laptop Files\Documents\MATLAB\Numerical_Methods\Tut5\slprj\_cprj"  -I"C:\Program Files\MATLAB\R2023a\sys\lcc64\lcc64\include64"  -I"C:\Users\Hitesh\OneDrive - iitgn.ac.in\Laptop Files\Documents\MATLAB\Numerical_Methods\Tut5\slprj\_cgxe\Gyro\src"  -I"C:\Users\Hitesh\OneDrive - iitgn.ac.in\Laptop Files\Documents\MATLAB\Numerical_Methods\Tut5" 
+ 
+
+Gyro_cgxe.mexw64 : $(MAKEFILE) $(OBJECTS)
+	$(LD) $(LDFLAGS) -o Gyro_cgxe.mexw64 @Gyro_cgxe.lmko
+c_mexapi_version.obj :	"C:\Program Files\MATLAB\R2023a\extern\version\c_mexapi_version.c"
+	$(CC) $(CFLAGS) $(INCLUDE_PATH) "C:\Program Files\MATLAB\R2023a\extern\version\c_mexapi_version.c"
+lccstub.obj :	"C:\Program Files\MATLAB\R2023a\sys\lcc64\lcc64\mex\lccstub.c"
+	$(CC) $(CFLAGS) $(INCLUDE_PATH) "C:\Program Files\MATLAB\R2023a\sys\lcc64\lcc64\mex\lccstub.c"
+Gyro_cgxe.obj :	"Gyro_cgxe.c"
+	$(CC) $(CFLAGS) $(INCLUDE_PATH) "Gyro_cgxe.c"
+m_W3c0jUQLrkthkBTev0jd9D.obj :	"m_W3c0jUQLrkthkBTev0jd9D.c"
+	$(CC) $(CFLAGS) $(INCLUDE_PATH) "m_W3c0jUQLrkthkBTev0jd9D.c"
+Gyro_cgxe_registry.obj :	"Gyro_cgxe_registry.c"
+	$(CC) $(CFLAGS) $(INCLUDE_PATH) "Gyro_cgxe_registry.c"

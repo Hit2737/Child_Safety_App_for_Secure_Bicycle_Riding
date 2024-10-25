@@ -1,0 +1,4 @@
+#Thu Sep 28 19:12:40 IST 2023
+base.0=C\:\\Simulink\\Testing_10x5B10x5D_ert_rtw\\Testing_10x5B10x5D\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
